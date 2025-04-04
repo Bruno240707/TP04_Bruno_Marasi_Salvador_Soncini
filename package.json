@@ -4,7 +4,13 @@
   "description": "TP04",
   "main": "index.js, index01.js, index02.js, index03.js, index04.js, index05.js, index06.js, index07.js",
   "scripts": {
-    "start": "node index07.js"
+    "start1": "node index01.js",
+    "start2": "node index02.js",
+    "start3": "node index02.js",
+    "start4": "node index02.js",
+    "start5": "node index02.js",
+    "start6": "node index02.js",
+    "start7": "node index02.js"
   },
   "author": "Bruno Marasi, Salvador Soncini",
   "license": "ISC",
