@@ -1,0 +1,16 @@
+{
+  "name": "tp04modulos_bruno_marasi_salvador_soncini",
+  "version": "1.0.0",
+  "description": "TP04",
+  "main": "index.js, index01.js, index02.js, index03.js, index04.js, index05.js, index06.js, index07.js",
+  "scripts": {
+    "start": "node index07.js"
+  },
+  "author": "Bruno Marasi, Salvador Soncini",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "iso-country-currency": "^0.7.2",
+    "node-fetch": "^3.3.2"
+  }
+}
