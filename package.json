@@ -6,11 +6,11 @@
   "scripts": {
     "start1": "node index01.js",
     "start2": "node index02.js",
-    "start3": "node index02.js",
-    "start4": "node index02.js",
-    "start5": "node index02.js",
-    "start6": "node index02.js",
-    "start7": "node index02.js"
+    "start3": "node index03.js",
+    "start4": "node index04.js",
+    "start5": "node index05.js",
+    "start6": "node index06.js",
+    "start7": "node index07.js"
   },
   "author": "Bruno Marasi, Salvador Soncini",
   "license": "ISC",
