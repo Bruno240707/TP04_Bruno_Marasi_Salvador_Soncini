@@ -6,7 +6,7 @@ const parsearUrl = (url) => {
 
         const params = {};
         parsedUrl.searchParams.forEach((valor, i) => {
-            params[valor] = value;
+            params[i] = valor;
         })
 
         let objetoUrl = {
