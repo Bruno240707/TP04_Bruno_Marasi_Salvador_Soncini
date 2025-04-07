@@ -1,8 +1,6 @@
-const url = require('url')
 
 const parsearUrl = (url) => {
     const parsedUrl = new URL(url);
-
     const params = {};
     parsedUrl.searchParams.forEach((value, key) => {
         params[key] = value;
@@ -14,5 +12,4 @@ const parsearUrl = (url) => {
         parametros: params
     }
 }
-
 module.exports = parsearUrl
